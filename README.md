@@ -1,2 +1,2 @@
 # Python-
-Personal Python repository for my pyhton development work, learning and testing which contains basic python codes, algorithms, mini scale projects  and so on
+Personal Python repository for learning, testing, and developing projects — includes basic to intermediate Python scripts.
